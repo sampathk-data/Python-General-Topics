@@ -1,0 +1,2 @@
+##Ask the user to enter a number. Print “Even” if it’s divisible by 2, otherwise print “Odd”.
+x = int(input())
